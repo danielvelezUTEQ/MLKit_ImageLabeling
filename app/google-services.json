@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030574613357",
+    "project_id": "mlkit-imagelabeling-67d38",
+    "storage_bucket": "mlkit-imagelabeling-67d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030574613357:android:a5b2edaacb2ed0d054b064",
+        "android_client_info": {
+          "package_name": "com.example.mlkit_imagelabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030574613357-r4n5324tnu87vmue1tf09m62cfukb05k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5fvpzF25X_dsTfSqloCkN28ycfKsDas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030574613357-r4n5324tnu87vmue1tf09m62cfukb05k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
